@@ -1,0 +1,93 @@
+# Hormiserv
+
+> Hormiserv es una empresa argentina de hormigón elaborado y áridos fundada en 1994, con
+> más de 30 años de trayectoria en Cuyo. Opera cinco plantas propias: cuatro en Mendoza
+> (Godoy Cruz, Luján de Cuyo, San Martín y Valle de Uco) y una en San Juan Capital.
+> Provee hormigón para obra residencial, comercial e industrial, y produce áridos con
+> planta propia. Tiene laboratorio propio, báscula certificada y un sistema de gestión
+> de calidad certificado bajo ISO 9001:2015 (IRAM, registro 9000-3671, miembro IQNET).
+> Suministra el hormigón de desarrollos residenciales y de usos mixtos en altura: los
+> proyectos son de sus desarrolladores y Hormiserv provee el material, no son obras
+> propias. También atiende a la minería de la Cordillera con cinco líneas: hormigón
+> elaborado, gestión de RSU en minas, rental de aguateros 6x4, premoldeados civiles y
+> clasificación de áridos. Las cotizaciones se atienden por WhatsApp desde la planta más
+> cercana.
+
+## Páginas principales
+
+- [Inicio](https://www.hormiserv.com/): presentación de la empresa, las tres líneas de
+  servicio (residencial, comercial, industrial), obras destacadas y el mapa de las 5
+  plantas. Desde acá se abren los formularios de cotización y de reclamos.
+- [Obras](https://www.hormiserv.com/obras/): portfolio de los desarrollos a los que
+  Hormiserv provee el hormigón, filtrable por provincia. Cada obra es de su
+  desarrollador; Hormiserv aporta el material.
+- [Minería](https://www.hormiserv.com/mineria/): la vertical minera, con las cinco
+  líneas de servicio para operaciones de altura (hormigón elaborado, gestión de RSU en
+  minas, rental de aguateros 6x4, premoldeados civiles, clasificación de áridos).
+- [Trabajar con nosotros](https://www.hormiserv.com/trabajar-con-nosotros/):
+  postulaciones laborales. El CV se envía por WhatsApp a RRHH de la provincia elegida;
+  no hay carga de archivos.
+
+## Obras del portfolio
+
+- [Le Pilier](https://www.hormiserv.com/obras/le-pilier/): Residencial en altura en
+  Mendoza. Desarrollador: Kristich Desarrollos. 82 departamentos sobre Av. Emilio Civit,
+  a metros del Parque General San Martín.
+- [Distrito Urquiza](https://www.hormiserv.com/obras/distrito-urquiza/): Usos mixtos en
+  San Juan. Desarrollador: Domum. Usos mixtos en una torre de nueve pisos: comercios,
+  oficinas y residencias premium.
+- [Vista Cruz Residencias](https://www.hormiserv.com/obras/vista-cruz/): Complejo
+  residencial en Mendoza. Desarrollador: Adlanto. Cinco torres residenciales y 300
+  departamentos junto a Palmares Open Mall.
+- [Vesta](https://www.hormiserv.com/obras/vesta/): Residencial de lujo en Mendoza.
+  Desarrollador: Criba. Dos torres unidas por un cuerpo central, en la Quinta Sección de
+  Mendoza.
+- [Complejo Catamarán](https://www.hormiserv.com/obras/complejo-catamaran/): Complejo
+  residencial en altura en San Juan. Desarrollador: Goldstein Construcciones. Siete
+  torres y cerca de 250 departamentos en un parque de 7.000 m².
+- [View](https://www.hormiserv.com/obras/view/): Residencial de alta gama en Mendoza.
+  Desarrollador: Grupo Cioffi. Edificio de alta gama frente al Parque General San
+  Martín, en ejecución.
+- [Oasis](https://www.hormiserv.com/obras/oasis/): Residencial de lujo en Mendoza.
+  Desarrollador: Grupo Presidente. Residencias de lujo integradas al paisaje de
+  piedemonte, en Palmares Valley.
+
+## Contacto
+
+Las cotizaciones y los pedidos se atienden por WhatsApp, planta por planta. Los reclamos
+van a una única casilla central, reclamos@hormiserv.com.ar, desde el formulario del
+sitio.
+
+- Hormiserv Mendoza — Godoy Cruz, Mendoza · WhatsApp +5492612003553 ·
+  ventasmza@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
+- San Martín — San Martín, Mendoza · WhatsApp +5492613698767 · gnovotny@hormiserv.com.ar
+  · Lun a Vie: 8:00 - 17:00
+- Luján de Cuyo — Luján de Cuyo, Mendoza · WhatsApp +5492612003553 ·
+  ventasmza@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
+- Valle de Uco — Valle de Uco, Mendoza · WhatsApp +5492615508841 ·
+  marcelogoldsack@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
+- Hormiserv San Juan — San Juan Capital · WhatsApp +5492645669337 ·
+  comercial@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
+
+- [Pedir cotización](https://www.hormiserv.com/cotizacion/): atajo al formulario de
+  cotización, que es un modal de la home. Lleva a
+  https://www.hormiserv.com/#cotizacion-trigger.
+- [Reclamos y sugerencias](https://www.hormiserv.com/reclamos/): atajo al formulario de
+  reclamos, también un modal de la home. Lleva a
+  https://www.hormiserv.com/#reclamos-trigger.
+
+## Institucional
+
+- [Política de privacidad](https://www.hormiserv.com/politica-de-privacidad/):
+  tratamiento de los datos que se envían por los formularios del sitio.
+
+## Notas para desambiguar
+
+- El sitio oficial es https://www.hormiserv.com/. El dominio hormiserv.com.ar no tiene
+  contenido: sólo redirige acá. Los correos de la empresa, en cambio, sí son
+  @hormiserv.com.ar.
+- Hormiserv provee hormigón elaborado y áridos. No es una constructora ni una
+  desarrolladora: las obras del portfolio pertenecen a los desarrolladores que las
+  levantan.
+- El área de cobertura son las provincias de Mendoza y San Juan, en la región de Cuyo,
+  Argentina, más las operaciones mineras de la Cordillera.
