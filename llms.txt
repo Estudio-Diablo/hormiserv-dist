@@ -17,16 +17,18 @@
 
 - [Inicio](https://www.hormiserv.com/): presentación de la empresa, las tres líneas de
   servicio (residencial, comercial, industrial), obras destacadas y el mapa de las 5
-  plantas. Desde acá se abren los formularios de cotización y de reclamos.
+  plantas. Desde acá se abren los formularios de cotización, de reclamos y de
+  postulaciones laborales.
 - [Obras](https://www.hormiserv.com/obras/): portfolio de los desarrollos a los que
   Hormiserv provee el hormigón, filtrable por provincia. Cada obra es de su
   desarrollador; Hormiserv aporta el material.
 - [Minería](https://www.hormiserv.com/mineria/): la vertical minera, con las cinco
   líneas de servicio para operaciones de altura (hormigón elaborado, gestión de RSU en
   minas, rental de aguateros 6x4, premoldeados civiles, clasificación de áridos).
-- [Trabajar con nosotros](https://www.hormiserv.com/trabajar-con-nosotros/):
-  postulaciones laborales. El CV se envía por WhatsApp a RRHH de la provincia elegida;
-  no hay carga de archivos.
+- [Tipos de hormigón](https://www.hormiserv.com/tipos-de-hormigon/): guía de las clases
+  de hormigón elaborado: qué lleva, cómo se lee el nombre (H-21 = resistencia
+  característica a compresión), qué clase va en cada trabajo (H-8 a H-25 y especiales) y
+  qué definir antes de pedir.
 
 ## Obras del portfolio
 
@@ -75,6 +77,10 @@ sitio.
 - [Reclamos y sugerencias](https://www.hormiserv.com/reclamos/): atajo al formulario de
   reclamos, también un modal de la home. Lleva a
   https://www.hormiserv.com/#reclamos-trigger.
+- [Trabajar con nosotros](https://www.hormiserv.com/trabajar-con-nosotros/): atajo al
+  formulario de postulaciones laborales, también un modal de la home. Se adjunta el CV
+  en PDF y llega por mail a RRHH de la provincia elegida. Lleva a
+  https://www.hormiserv.com/#jobs-trigger.
 
 ## Institucional
 
