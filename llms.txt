@@ -29,6 +29,10 @@
   de hormigón elaborado: qué lleva, cómo se lee el nombre (H-21 = resistencia
   característica a compresión), qué clase va en cada trabajo (H-8 a H-25 y especiales) y
   qué definir antes de pedir.
+- [Preguntas frecuentes](https://www.hormiserv.com/preguntas-frecuentes/): respuestas
+  sobre qué clase de hormigón pedir, asentamiento, aditivos, cómo calcular los m³,
+  pedido mínimo, capacidad de los mixers, anticipación del pedido, canaleta o bombeo,
+  controles de calidad y qué hace variar el precio.
 
 ## Obras del portfolio
 
