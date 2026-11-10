@@ -60,20 +60,20 @@
 
 ## Contacto
 
-Las cotizaciones y los pedidos se atienden por WhatsApp, planta por planta. Los reclamos
-van a una única casilla central, reclamos@hormiserv.com.ar, desde el formulario del
-sitio.
+Las cotizaciones y los pedidos se atienden por WhatsApp, en un único número para todas
+las plantas: +5492617170194. Ahí se indica la planta o la ubicación de la obra y la
+consulta pasa al vendedor que corresponde. Los reclamos van a una única casilla central,
+reclamos@hormiserv.com.ar, desde el formulario del sitio.
 
-- Hormiserv Mendoza — Godoy Cruz, Mendoza · WhatsApp +5492612003553 ·
-  ventasmza@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
-- San Martín — San Martín, Mendoza · WhatsApp +5492613698767 · gnovotny@hormiserv.com.ar
-  · Lun a Vie: 8:00 - 17:00
-- Luján de Cuyo — Luján de Cuyo, Mendoza · WhatsApp +5492612003553 ·
-  ventasmza@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
-- Valle de Uco — Valle de Uco, Mendoza · WhatsApp +5492615508841 ·
-  marcelogoldsack@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
-- Hormiserv San Juan — San Juan Capital · WhatsApp +5492645669337 ·
-  comercial@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
+- Hormiserv Mendoza — Godoy Cruz, Mendoza · ventasmza@hormiserv.com.ar · Lun a Vie: 8:00
+  - 17:00
+- San Martín — San Martín, Mendoza · gnovotny@hormiserv.com.ar · Lun a Vie: 8:00 - 17:00
+- Luján de Cuyo — Luján de Cuyo, Mendoza · ventasmza@hormiserv.com.ar · Lun a Vie: 8:00
+  - 17:00
+- Valle de Uco — Valle de Uco, Mendoza · marcelogoldsack@hormiserv.com.ar · Lun a Vie:
+  8:00 - 17:00
+- Hormiserv San Juan — San Juan Capital · comercial@hormiserv.com.ar · Lun a Vie: 8:00 -
+  17:00
 
 - [Pedir cotización](https://www.hormiserv.com/cotizacion/): atajo al formulario de
   cotización, que es un modal de la home. Lleva a
